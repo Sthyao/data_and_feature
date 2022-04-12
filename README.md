@@ -1,7 +1,7 @@
 # data_and_feature
 Record some common characteristic engineering operations<br />
 
-##1st:<br />
+## 1st:<br />
 The first work is statistical product for salesdate weight by month.<br />
 
 At the begging, we have sale data like this format:<br />
