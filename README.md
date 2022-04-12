@@ -12,7 +12,7 @@ date    name    amount
 
 Now we want get [SALE_WRIGHT_MONTHLY]. We know that sales of products are always cyclical by time, in general, we use moving time averages to deal with problems like this. But we have a new idea to get the sale_wright to describe monthly sales trend of the product from history data.
 
-Mean_month/Total_month
+Mean_month/Total_month\n
 where Mean_month is mean of sale amount on year-on-year basis,
 and Total_month is the average of the sum of historical sales data
 
